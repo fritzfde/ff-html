@@ -1,0 +1,1 @@
+https://www.instagram.com/oauth/authorize/?client_id=546c4661dd984ab7a9bf8f27e368916a&redirect_uri=http://fritz-fit.com/&response_type=token&response_type=token
