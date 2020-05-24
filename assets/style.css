@@ -1,3 +1,26 @@
+.navbar-brand {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: start;
+}
+.navbar-caption {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.navbar-caption h1 {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-size: 25px;
+  padding: 0;
+  margin: 0;
+  margin-left: 5px;
+}
+
 .mbr-instagram-feed {
   position: relative; }
 
