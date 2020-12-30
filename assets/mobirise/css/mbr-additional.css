@@ -425,6 +425,8 @@ h6,
 #header5-f .mbr-section-lead {
   color: #9c9a9a;
   font-family: 'Lora', serif;
+  /* font-family: 'Raleway', sans-serif;
+  font-style: normal; */
   text-align: left;
 }
 #header5-f .btn {
