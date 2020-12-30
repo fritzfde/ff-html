@@ -63,9 +63,14 @@
   .navbar-dropdown .hamburger-icon {
     content: "";
     width: 16px;
-    -webkit-box-shadow: 0 -6px 0 1px,0 0 0 1px,0 6px 0 1px;
-    -moz-box-shadow: 0 -6px 0 1px,0 0 0 1px,0 6px 0 1px;
-    box-shadow: 0 -6px 0 1px,0 0 0 1px,0 6px 0 1px; }
+  }
+  .navbar-dropdown .hamburger-icon div {
+    width: 18px;
+    height: 2px;
+    background-color: #c1c1c1;
+    margin: 4px 0;
+  }
+
   .navbar-dropdown .close-icon {
     position: relative;
     width: 21px;
