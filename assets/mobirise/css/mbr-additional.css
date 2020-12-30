@@ -360,9 +360,10 @@ h6,
 }
 .btn-social {
   border-color: #f28281;
+  background: #f28281;
 }
 .btn-social:hover {
-  background: #f28281;
+  background:none;
 }
 .mbr-company .list-group-item.active .list-group-text {
   color: #f28281;
