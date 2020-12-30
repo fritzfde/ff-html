@@ -359,11 +359,15 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #f28281;
+  border: 1px solid #000;
+  padding: 2px;
+  align-content: center;
   background: #f28281;
+  opacity: 0.66;
 }
 .btn-social:hover {
-  background:none;
+  background: #f28281;
+  opacity: 1;
 }
 .mbr-company .list-group-item.active .list-group-text {
   color: #f28281;
